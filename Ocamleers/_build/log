@@ -1,0 +1,6 @@
+# dune init proj Ocamleers
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /Users/ryanmac/.cache/dune/db
+# Workspace root: /Users/ryanmac/Desktop/04.Ocaml/50.Ocamleers/Ocamleers
+# Auto-detected concurrency: 10

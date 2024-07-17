@@ -1,6 +1,16 @@
-# dune init proj Ocamleers
+# dune runtest
 # OCAMLPARAM: unset
 # Shared cache: disabled
 # Shared cache location: /Users/ryanmac/.cache/dune/db
-# Workspace root: /Users/ryanmac/Desktop/04.Ocaml/50.Ocamleers/lol/Ocamleers
+# Workspace root: /Users/ryanmac/Desktop/04.Ocaml/50.Ocamleers/Ocamleers
 # Auto-detected concurrency: 10
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; instrument_with = []
+#  }
+$ /Users/ryanmac/.opam/frama-c/bin/ocamlc.opt -config > /var/folders/_y/4ff11xw52zv4s0kjf9zsxnp00000gn/T/dune_510125_output

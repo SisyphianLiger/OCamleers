@@ -1,0 +1,7 @@
+(lang dune 3.15)
+(name Ocamleers)
+(sections (lib .) (bin ../../bin) (doc ../../doc/Ocamleers))
+(files
+ (lib (META dune-package opam))
+ (bin (Ocamleers Ocamleers))
+ (doc (README.md)))

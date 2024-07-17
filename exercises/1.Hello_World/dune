@@ -1,0 +1,17 @@
+(executable
+ (name start_here)
+ (libraries public))
+
+(test
+ (name start_here_test)
+ (libraries ounit2)
+ (modules exercise1a_test))
+
+(executable
+ (name hello_world)
+ (libraries public))
+
+(test
+ (name hello_world_test)
+ (libraries ounit2)
+ (modules exercise1b_test))
